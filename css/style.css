@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@media only screen and (max-width: 768px) {
+  #features .fa-3x {
+    font-size: 1.5em;
+  }
+}
+/* Smartphones */
+/* Tablet */
+/* Normal */
+/* Widescreen */
+/* Landscape */
+html,
+body {
+  font-family: "Montserrat", sans-serif;
+  scroll-behavior: smooth;
+}
+
+.text-green {
+  color: #3e9e7e;
+}
+
+.bg-green {
+  background: #3e9e7e;
+}
+
+.bg-white {
+  background: #fff;
+  -webkit-box-shadow: 1px 1px 2px 1px "Montserrat", sans-serif;
+  box-shadow: 1px 1px 2px 1px #3e9e7e;
+}
+
+.navbar {
+  background: #3e9e7e;
+}
+.navbar i {
+  color: #255e4b;
+}
+
+#showcase .carousel-caption {
+  padding-bottom: 300px;
+}
+
+/*# sourceMappingURL=style.css.map */
